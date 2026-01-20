@@ -2,6 +2,3 @@
 __pycache__/
 *.pyc
 .DS_Store
-
-# Face dataset (optional)
-dataset/
