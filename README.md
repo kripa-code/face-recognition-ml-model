@@ -4,7 +4,7 @@ how to run:
     1. inside terminal/command promt run the following command:
             sh run.sh
     2. enter ur name in the terminal when asked
-    3. camera window will open once and capture ur face and close on its own
+    3. camera window will open once, capture ur face and close on its own
     4. model will be trained 
     5. camera window will open again and display ur name on top of ur face
     6. press "q" to exit
