@@ -1,7 +1,7 @@
 # ML project to learn knn, using OpenCV, Scikit-Learn, Numpy
 
 how to run:
-    1. inside terminal/command promt run the following command
+    1. inside terminal/command promt run the following command:
             sh run.sh
     2. enter ur name in the terminal when asked
     3. camera window will open once and capture ur face and close on its own
