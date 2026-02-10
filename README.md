@@ -26,7 +26,7 @@ working steps of the project:
         b. opens camera
         c. captures that frame
     3. 
-        a. make the pic b&w
+        a. makes the pic b&w
         b. crops the face
         c. stores it in the dataset
     4.
